@@ -1,0 +1,18 @@
+{
+  "java.configuration.updateBuildConfiguration": "automatic",
+  "java.settings.url": ".settings/org.eclipse.jdt.core.prefs",
+  "files.exclude": {
+    "**/.settings": true
+  },
+  "cSpell.words": [
+    "agentid",
+    "lgst",
+    "Mybatis",
+    "Servlet",
+    "snsapi",
+    "wechat"
+  ],
+  "CodeGPT.apiKey": "Ollama",
+  "java.compile.nullAnalysis.mode": "automatic",
+  "java.debug.settings.onBuildFailureProceed": true
+}
