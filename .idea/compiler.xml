@@ -18,6 +18,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="client" target="1.8" />
+      <module name="devtool-login-application" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
